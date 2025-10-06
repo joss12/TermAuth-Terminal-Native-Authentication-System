@@ -1,0 +1,5 @@
+.session
+.env
+node_modules/
+package.json
+docker-compose.yml
